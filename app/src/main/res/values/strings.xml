@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrystalFash</string>
+    <string name="title_home">Shop</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="filter_category">Categories</string>
+</resources>
